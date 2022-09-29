@@ -9,5 +9,5 @@ public class GulimallMemberApplication {
     public static void main(String[] args) {
         SpringApplication.run(GulimallMemberApplication.class, args);
     }
-
+    //刷刷刷
 }
